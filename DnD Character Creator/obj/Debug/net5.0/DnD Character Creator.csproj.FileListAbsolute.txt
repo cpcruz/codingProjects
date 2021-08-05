@@ -1,0 +1,15 @@
+/Users/ccruz/Documents/codingProjects/DnD Character Creator/bin/Debug/net5.0/DnD Character Creator.deps.json
+/Users/ccruz/Documents/codingProjects/DnD Character Creator/bin/Debug/net5.0/DnD Character Creator.runtimeconfig.json
+/Users/ccruz/Documents/codingProjects/DnD Character Creator/bin/Debug/net5.0/DnD Character Creator.runtimeconfig.dev.json
+/Users/ccruz/Documents/codingProjects/DnD Character Creator/bin/Debug/net5.0/DnD Character Creator.dll
+/Users/ccruz/Documents/codingProjects/DnD Character Creator/bin/Debug/net5.0/ref/DnD Character Creator.dll
+/Users/ccruz/Documents/codingProjects/DnD Character Creator/bin/Debug/net5.0/DnD Character Creator.pdb
+/Users/ccruz/Documents/codingProjects/DnD Character Creator/obj/Debug/net5.0/DnD Character Creator.csproj.AssemblyReference.cache
+/Users/ccruz/Documents/codingProjects/DnD Character Creator/obj/Debug/net5.0/DnD Character Creator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ccruz/Documents/codingProjects/DnD Character Creator/obj/Debug/net5.0/DnD Character Creator.AssemblyInfoInputs.cache
+/Users/ccruz/Documents/codingProjects/DnD Character Creator/obj/Debug/net5.0/DnD Character Creator.AssemblyInfo.cs
+/Users/ccruz/Documents/codingProjects/DnD Character Creator/obj/Debug/net5.0/DnD Character Creator.csproj.CoreCompileInputs.cache
+/Users/ccruz/Documents/codingProjects/DnD Character Creator/obj/Debug/net5.0/DnD Character Creator.dll
+/Users/ccruz/Documents/codingProjects/DnD Character Creator/obj/Debug/net5.0/ref/DnD Character Creator.dll
+/Users/ccruz/Documents/codingProjects/DnD Character Creator/obj/Debug/net5.0/DnD Character Creator.pdb
+/Users/ccruz/Documents/codingProjects/DnD Character Creator/obj/Debug/net5.0/DnD Character Creator.genruntimeconfig.cache
